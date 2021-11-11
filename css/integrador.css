@@ -1,0 +1,176 @@
+#link-orador{
+    color:#2AA144;
+}
+#tit{
+  position: relative;
+   top: -7rem;
+   left: 15rem; 
+
+}
+#menu{
+    display: flex;
+    justify-content: end;
+}
+
+#codo{
+    width: 13rem;
+    height: 13rem;
+}
+
+#presentacion{
+    position: relative;
+    display: flex;
+    width: 30rem;
+    height: 30rem;
+    flex-wrap: wrap;
+    justify-content: end;
+    top: -15rem;
+    left: 30rem;
+    color: white;
+}
+
+.boton1{
+    width: 6rem;
+    height: 1.5rem;
+    font-size: 0.5rem;
+    margin: 0.2rem;
+    left: -6rem;
+}
+#b1{
+    background-color: transparent;
+    color: white;
+    position: relative;
+    top: -11rem;
+}
+#b2{
+    background-color:limegreen;
+    color: white;
+    position: relative;
+    top: -11rem;
+}
+#conoce{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    top: -30rem;
+    text-align: center;
+    
+}
+#orador{
+    position: relative;
+    top: -15px ;
+}
+.card{
+    width: 15rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 2rem;
+}
+#imagen2{
+    width: 15rem;
+}
+
+
+.oradores{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+#b3{
+    position: relative;
+    top: 2rem;
+    width: 4rem;
+    height: 2rem;
+    font-size: 0.5rem;
+}
+
+#b4{
+    position: relative;
+    width: 4rem;
+    height: 2rem;
+    font-size: 0.5rem;
+    left: 4.3rem;
+}
+.oradores{
+    position: relative;
+    top: -30rem;
+}
+
+
+#pla{
+    width: 35rem;
+    height: 30rem;
+    
+}
+#cajagris{
+    width: 35rem;
+    background-color: #353A40;
+    color: white;
+    margin-left: 0.1rem;
+}
+#mitad{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: -25rem;
+}
+#conoce{
+    margin-left: 1.5rem;
+    background-color: transparent;
+    color: white;
+    position: relative;
+    top: 2.5rem;
+}
+#ora{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -25rem;
+}
+#con{
+    position: relative;
+    top: 1rem;
+    left: -5.4rem;
+}
+#anotate{
+    position: relative;
+    top: -23rem;
+    text-align: center;
+}
+.form-group{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: -20rem;
+    justify-content: center;
+   
+}
+.in{
+    margin-left: 2rem;
+}
+#contenido{
+    display: flex;
+    justify-content: center;
+    width: 30rem;
+    height: 5rem;
+}
+
+#footer{
+    display: flex;
+    flex-direction: row;
+    background-color: #1E4F6D ;
+    position: relative;
+    top: -15rem;
+    width: 100%;
+    justify-content: space-around;
+}
+
+#enviar{
+    position: relative;
+    top: -20rem;
+    left: 20rem;
+    width: 30rem;
+}
